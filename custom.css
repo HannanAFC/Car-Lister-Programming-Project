@@ -18,3 +18,11 @@ a:visited {
 a:hover, a:active {
     color: #eee;
 }
+aside {
+    grid-area: pic;
+    padding: 0.5em;
+    align-self: center;
+    justify-self: center;
+    left: auto;
+    right: auto;
+}
